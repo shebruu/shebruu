@@ -41,14 +41,37 @@
 ## Languages and Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40" hspace="10"/>
+  <a href="https://symfony.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" alt="Symfony" width="40" height="40" hspace="10"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40" height="40" hspace="10"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL" width="40" height="40" hspace="10"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40" hspace="10"/>
+  </a>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" width="40" height="40" hspace="10"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" width="40" height="40" hspace="10"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL" width="40" height="40" hspace="10"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="40" height="40" hspace="10"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" hspace="10"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" width="40" height="40" hspace="10"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" width="40" height="40" hspace="10"/>
+  </a>
 </p>
 
 <br>
