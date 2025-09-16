@@ -54,15 +54,11 @@
 <br>
 
 <a href="https://github.com/pyladies/pyladies-kit" target="_blank">
-  <img
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shebruu&layout=compact&custom_title=Languages%20&langs_count=8&bg_color=fffafc&title_color=ff5c7a&text_color=334155&border_color=ffd1dc&border_radius=12"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shebruu&layout=compact&langs_count=10&bg_color=fffafc&title_color=ff5c7a&text_color=334155&border_color=ffd1dc&border_radius=12" 
     width="400"
-    alt="Top languages - shebruu"
-  />
+    alt="Top languages - shebruu"/>
+
 </a>
-
-
 
 
 ---
